@@ -14,7 +14,7 @@ Para jogar, existem quatro comandos básicos:
  - Use "r" na tela de Game Over para retornar à tela inicial
 
 ## Bugs conhecidos
- -Algumas vezes, acerta o obstáculo, mas os efeitos esperados não acontecem, ou seja, o obstáculo não é destruído e a pontuação não é contabilizada.
+ 1. Quando o personagem colide com o obstáculo do meio, resultando no fim de jogo, e o jogador retorna à tela inicial (pressionando 'r'), os carateres impressoas nas telas de início e do jogo ficam quebradas.
 
 ## Ideais para melhorias
 O jogo pode ser aprimorado para se tornar um jogo de plataforma. Para isso, estão listadas aqui algumas ideias a serem adicionadas:

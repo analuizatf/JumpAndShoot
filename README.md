@@ -14,7 +14,7 @@ To play, there are four basic commands
  - Use "r" on the Game Over screen to return to the Start Screen
 
 ## Known bugs
-Currently, there is a bug where, at times, the shot hits the obstacle, but it's ignored, so it's not destroyed and the points don't change. 
+ 1. When the character collides with the "middle" obstacle, resulting in the game over, and the player returns to the Start Screen (presses 'r'), the strings printed on the Start and the Game screens are broken.
 
 ## Ideas for improvement
 The game can be further developed to becoma a platform game. For this, here are a few ideas on what to add:
