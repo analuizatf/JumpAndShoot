@@ -109,6 +109,7 @@ main:
 			call CheckIfShotHit
 			
 			call Update_ObstaclePosition
+			call CheckIfShotHit
 			
 			call PrintShoot
 			call PrintObstacle			
